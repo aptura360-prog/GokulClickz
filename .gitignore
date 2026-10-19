@@ -1,0 +1,25 @@
+
+# Private database configuration
+/config.php
+
+# Local environment files
+.env
+.env.*
+
+# Backups and temporary files
+*.bak
+*.log
+*.tmp
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+/config.php
+.env
+.env.*
+*.bak
+*.log
+*.tmp
+.DS_Store
+Thumbs.db
